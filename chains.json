@@ -1,0 +1,34 @@
+{
+  "0xd071bedcf566309f12226646d82493742e0d834307498668837963bc9df4e6df": {
+    "contracts": {
+      "0xdddd13fa5f132587e1ac7c883cf6fdbdc1d28957e1ba34cbbb371cbb70e29679": {
+        "name": "DTwitter",
+        "address": "0xA3D15b3E5dbb3F9B09554cf0449a71BF7E041aE9"
+      }
+    }
+  },
+  "0x32389ee926a5308199e15ec1ea1224d10a9a61409914b699419c21c06ed757ba": {
+    "contracts": {
+      "0xdddd13fa5f132587e1ac7c883cf6fdbdc1d28957e1ba34cbbb371cbb70e29679": {
+        "name": "DTwitter",
+        "address": "0x46eeC5dBb438ec2B6F3992d040DD38dFBF2434C7"
+      }
+    }
+  },
+  "0x4af9ddba55e2dda530809d5fcd60fe5555f5b960712a3d4e78f20e203c39dc64": {
+    "contracts": {
+      "0xdddd13fa5f132587e1ac7c883cf6fdbdc1d28957e1ba34cbbb371cbb70e29679": {
+        "name": "DTwitter",
+        "address": "0xe329238c01ACaa478588Dd7a7F7557319863cEce"
+      }
+    }
+  },
+  "0xdbfa1daef263b32dbcd7ddba980d46f2411f411483ffb5ff5536c6371977b7e6": {
+    "contracts": {
+      "0xdddd13fa5f132587e1ac7c883cf6fdbdc1d28957e1ba34cbbb371cbb70e29679": {
+        "name": "DTwitter",
+        "address": "0x1941240e16c754CC04452308544717159C79fbae"
+      }
+    }
+  }
+}
